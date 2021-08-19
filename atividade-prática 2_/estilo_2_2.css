@@ -1,0 +1,10 @@
+#ba{
+    color: brown;
+    text-transform: uppercase;
+}
+p{
+    font-style:italic;
+}
+fieldset{
+    width: 40px;
+}

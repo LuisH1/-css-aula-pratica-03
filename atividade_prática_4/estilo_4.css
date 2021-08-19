@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    display: flex;
+    height:70px;
+    background:#a38b8b;
+    align-items: center;
+    justify-content: space-between;
+    color: white;
+    padding: 0 20px;
+}
+img{
+    width: 100%;
+    margin: 0 auto;
+    
+}
+nav ul{
+    font-size: 15px;
+    list-style:none;
+    display: flex; 
+    gap: 1.8rem;
+}
+main{
+    width: 60%;
+    margin: 0 auto;
+    margin-top:10px;
+    display: flex;
+    flex-direction: column;
+}
+#pl{
+    background-color:#a38b8b;
+    width: 60px;
+    color: white;
+
+}
